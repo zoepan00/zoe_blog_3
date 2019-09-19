@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: graduate student of master of data science
+role: UBC student
 
 # Organizations/Affiliations
 organizations:
