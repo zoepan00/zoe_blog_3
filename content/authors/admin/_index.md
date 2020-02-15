@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: UBC student
+role: UBC MDS student
 
 # Organizations/Affiliations
 organizations:
-- name: UBC
+- name: UBC, Vancouver BC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,13 +33,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "apeggy123@hotmail.com".
+  link: apeggy123@hotmail.com  # For a direct email link, use "apeggy123@hotmail.com".
 - icon: twitter
   icon_pack: fab
   link: 
-- icon: google-scholar
-  icon_pack: ai
-  link:
+#- icon: google-scholar
+#  icon_pack: ai
+#  link:
 - icon: github
   icon_pack: fab
   link: https://github.com/zoepan00
