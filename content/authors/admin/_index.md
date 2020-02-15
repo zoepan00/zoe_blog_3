@@ -33,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: apeggy123@hotmail.com  # For a direct email link, use "apeggy123@hotmail.com".
+  link: 'apeggy123@hotmail.com'  # For a direct email link, use "apeggy123@hotmail.com".
 - icon: twitter
   icon_pack: fab
   link: 
